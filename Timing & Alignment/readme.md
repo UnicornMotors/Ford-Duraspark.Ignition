@@ -1,5 +1,3 @@
-sch: https://www.youtube.com/results?search_query=ford+duraspark
-
 sch:
 - https://www.google.com/search?q=ford+300+duraspark+distributor+timing , https://www.google.com/search?q=ford+300+duraspark+distributor+alignment
 - https://www.google.com/search?q=ford+300+distributor+installation , https://www.google.com/search?q=ford+300+duraspark+distributor+installation
