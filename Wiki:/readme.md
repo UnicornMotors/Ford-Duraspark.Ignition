@@ -1,3 +1,6 @@
+# Home:
+sch: https://www.youtube.com/results?search_query=ford+duraspark
+
 # Wiring.Diagram:
 sch: https://www.google.com/search?q=ford+duraspark+wiring
 
