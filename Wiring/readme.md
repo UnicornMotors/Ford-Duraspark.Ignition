@@ -6,3 +6,6 @@ sch: https://www.google.com/search?q=ford+duraspark+wiring
 # Diagram
 - https://mustangsteve.com/durasparkii_electronic_ignition/
 - https://www.ford-trucks.com/forums/1433147-wire-a-duraspark.html
+
+## Best:
+- https://www.painlessperformance.com/manuals/30812.pdf
