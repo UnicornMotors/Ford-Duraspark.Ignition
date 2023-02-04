@@ -2,7 +2,6 @@ sch: https://www.google.com/search?q=ford+duraspark+wiring
 
 # Guide
 - [My in Depth Duraspark 2 II Troubleshooting Diagnostic Guide](https://youtu.be/RylhE4_HSPU)
-- https://www.inliners.org/tech/tech8.html
 
 # Diagram
 - https://mustangsteve.com/durasparkii_electronic_ignition/
@@ -10,3 +9,4 @@ sch: https://www.google.com/search?q=ford+duraspark+wiring
 
 ## Best:
 - https://www.painlessperformance.com/manuals/30812.pdf
+- https://www.inliners.org/tech/tech8.html
